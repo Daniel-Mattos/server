@@ -15,6 +15,13 @@
       "when": 1752062421749,
       "tag": "0001_greedy_scalphunter",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752104040414,
+      "tag": "0002_fat_virginia_dare",
+      "breakpoints": true
     }
   ]
 }
